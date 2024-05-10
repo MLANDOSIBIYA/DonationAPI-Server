@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DonationAPI1.props" />
+</Project>
